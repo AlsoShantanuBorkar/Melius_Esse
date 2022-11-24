@@ -27,7 +27,7 @@
 - Go to the project directory
 
 ```bash
-  cd Melius-Esse
+  cd melius-esse
 ```
 
 - Check for errors before running app
