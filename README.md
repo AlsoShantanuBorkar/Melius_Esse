@@ -1,16 +1,48 @@
-# melius_esse
 
-A new Flutter project.
+# Melius Esse
 
-## Getting Started
+- Flutter App to track Tasks and Goals
+- Stores Tasks on local storage 
 
-This project is a starting point for a Flutter application.
+## Dependencies
 
-A few resources to get you started if this is your first Flutter project:
+- [Provider for State Management](https://pub.dev/packages/provider)
+- [Hive for Local Storage](https://pub.dev/packages/hive)
+- [Hive + Provider Tutorial](https://medium.com/flutter-community/storing-local-data-with-hive-and-provider-in-flutter-a49b6bdea75a)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Run Locally
+
+*Make sure Flutter SDK is installed*
+
+
+- Clone the project
+
+```bash
+  git clone https://github.com/AlsoShantanuBorkar/Melius_Esse.git
+```
+
+- Go to the project directory
+
+```bash
+  cd my-project
+```
+
+- Check for errors before running app
+
+```bash
+  flutter doctor
+```
+
+*Make sure a device is present to build the app on*
+
+- Build App 
+
+```bash
+  flutter run
+```
+
+
+
